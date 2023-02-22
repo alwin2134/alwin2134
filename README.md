@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Alwin Mathew👋</h1>
 </div>
   
-<p align="center">I'm a software engineer with a passion for learning and building things. Currently, I'm working on projects in <a href="https://language-framework.com/">Language/Framework</a></p>
+<p align="center">Hi there, my name is Alwin Mathew and I'm passionate about programming. With 4 years of experience in Python, Nocode App Development, and Ui Designing, I have honed my skills and gained valuable experience in these fields. Programming has been a part of my life for many years, and I love being able to create something from nothing, solve problems, and make things more efficient. In fact, my love for programming is what drives me to succeed. I'm always eager to share my knowledge and help others succeed, which is why I'm excited to be a part of this community. Thank you for taking the time to learn a little bit about me.</p>
 
 
 <h1 align="center"> 🔧 Technologies & Tools</h1>
