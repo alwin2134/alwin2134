@@ -27,6 +27,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alwin2134&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your Name's GitHub Stats" /> </a>
 </div>
 
+
 <h1 align="center"> 🤝🏻 Connect with Me</h1>
 
 <div align="center">
@@ -36,3 +37,6 @@
 </ul>
 
 </div>
+
+
+![snake gif](https://github.com/alwin2134/alwin2134/blob/output/github-contribution-grid-snake.gif)
