@@ -39,4 +39,4 @@
 </div>
 
 
-![snake gif](https://github.com/alwin2134/alwin2134/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/alwin2134/alwin2134/blob/output/github-contribution-grid-snake.svg)
