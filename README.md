@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://share.creavite.co/PHSTpCzvLq5s4A8Z.png"/>
+<img align="center" src="https://raw.githubusercontent.com/alwin2134/alwin2134/main/github-header-image.png"/>
 <h1 align="center">Hello, I'm Alwin Mathew👋</h1>
 </div>
   
