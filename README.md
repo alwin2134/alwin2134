@@ -33,7 +33,6 @@
 <div align="center">
 <ul>
     <l>Email: <a href="mailto:business.alwin.mathew@gmail.com">business.alwin.mathew@gmail.com</a></l><br>
-    <l>Instagram: <a href="https://www.instagram.com/alwin._.mathew.py/">@alwin._.mathew.py</a></l>
 </ul>
 
 </div>
